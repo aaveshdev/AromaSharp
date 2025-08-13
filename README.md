@@ -125,4 +125,4 @@ Contributions welcome — open an issue or PR for enhancements (routing features
 
 ## License
 
-MIT © AromaSharp contributors
+MIT © Aavesh Jilani
