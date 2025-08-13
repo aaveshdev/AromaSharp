@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <PackageId>AromaSharp</PackageId>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <Version>1.0.0</Version>
+	  <Authors>Aavesh Jilani</Authors>
+	  <Description>Light weight and modern Express and Aroma.js like web framework</Description>
+	  <PackageTags>web framework</PackageTags>
+	  <RepositoryUrl>https://github.com/aaveshdev/AromaSharp</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
